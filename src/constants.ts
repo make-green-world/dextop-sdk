@@ -18,7 +18,7 @@ export enum Rounding {
   ROUND_HALF_UP,
   ROUND_UP
 }
-
+// Please changge this address and init code hash.
 export const FACTORY_ADDRESS = '0xf24e8058fa469900de82F8752D5bdAb655205B98'
 
 export const INIT_CODE_HASH = '0x21bd7484b58413a2844dd75c65d3ef6c95e5fe9da7b6b878dfbffc565140d9cf'
